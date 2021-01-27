@@ -61,7 +61,6 @@
     "effector-react": "^21.0.4",
     "ethers": "^5.0.19",
     "final-form": "^4.20.1",
-    "lodash": "^4.17.20",
     "moment": "^2.29.1",
     "react": "^16.13.1",
     "react-device-detect": "^1.14.0",
@@ -71,5 +70,6 @@
     "react-sweet-progress": "^1.1.2",
     "styled-components": "^5.1.1",
     "web3modal": "^1.9.1"
-  }
+  },
+  "name": "frontend"
 }
